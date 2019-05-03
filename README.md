@@ -51,7 +51,7 @@ Test data is further randomly divided into Public (30%) and Private (70%) data.
 #### Code & Approach Submission
 * Setting the final submission is mandatory. Without a final submission, the submission corresponding to best public score will be taken as the final submission
 * Code file and approach document are mandatory while setting final submission. For GUI based tools, please upload a zip file of snapshots of steps taken
-* Participants must adhere to the approach document format provided at this link.
+* Participants must adhere to the approach document format provided at this [link](https://drive.google.com/file/d/1_t12CPk3R50xZ3uX-tww4zRftzSAaM2b/view).
 
 #### Approach
 TBD
