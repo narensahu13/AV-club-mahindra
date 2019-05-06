@@ -54,7 +54,9 @@ Test data is further randomly divided into Public (30%) and Private (70%) data.
 * Participants must adhere to the approach document format provided at this [link](https://drive.google.com/file/d/1_t12CPk3R50xZ3uX-tww4zRftzSAaM2b/view).
 
 #### Approach
-TBD
+- Feature engineering 
+- Tried K-fold LGBM
 
 #### Score
-TBD
+- Private LB score: 97.466 (Rank: 140/4105)
+- Public LB  score: 96.365 (Rank: 123/4105)	
